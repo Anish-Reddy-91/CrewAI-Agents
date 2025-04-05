@@ -7,7 +7,7 @@ Agents Overview
 --------------
 
 1. **BlogWriter AI Agent**
-	* Model: Ollama
+	* Model: OpenAI
 	* Purpose: Generate engaging and SEO-optimized blog posts for social media sharing.
 	* Features: Utilizes DuckDuckGo for research. Writes in a friendly tone, using tables for data representation. Incorporates trending keywords and SEO best practices.
 2. **CustomerSupport AI Agent**
